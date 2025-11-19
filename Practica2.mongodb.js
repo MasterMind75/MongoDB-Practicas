@@ -229,4 +229,4 @@ db.administrativos.insertMany([{
     Cargo: "Director"
 }])
 
-db.alumnos.find()
+db.alumnos.find();
