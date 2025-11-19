@@ -1,0 +1,162 @@
+[
+  {
+    "_id": {
+      "$oid": "691dfbc6b622723a579ede53"
+    },
+    "Nombre": "Ethan",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbc6b622723a579ede54"
+    },
+    "Nombre": "Omar",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbc6b622723a579ede55"
+    },
+    "Nombre": "Alejandro",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbc6b622723a579ede56"
+    },
+    "Nombre": "Ricardo",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbc6b622723a579ede57"
+    },
+    "Nombre": "Misael",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbc6b622723a579ede58"
+    },
+    "Nombre": "Angel",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbc6b622723a579ede59"
+    },
+    "Nombre": "Sarai",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbc6b622723a579ede5a"
+    },
+    "Nombre": "Abraham",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbc6b622723a579ede5b"
+    },
+    "Nombre": "Alondra",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbc6b622723a579ede5c"
+    },
+    "Nombre": "Juan",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbf402913959c47cc595"
+    },
+    "Nombre": "Ethan",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbf402913959c47cc596"
+    },
+    "Nombre": "Omar",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbf402913959c47cc597"
+    },
+    "Nombre": "Alejandro",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbf402913959c47cc598"
+    },
+    "Nombre": "Ricardo",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbf402913959c47cc599"
+    },
+    "Nombre": "Misael",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbf402913959c47cc59a"
+    },
+    "Nombre": "Angel",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbf402913959c47cc59b"
+    },
+    "Nombre": "Sarai",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbf402913959c47cc59c"
+    },
+    "Nombre": "Abraham",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbf402913959c47cc59d"
+    },
+    "Nombre": "Alondra",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  },
+  {
+    "_id": {
+      "$oid": "691dfbf402913959c47cc59e"
+    },
+    "Nombre": "Juan",
+    "Edad": 17,
+    "Especialidad": "Programacion"
+  }
+]
