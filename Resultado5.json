@@ -1,0 +1,72 @@
+[
+  {
+    "_id": {
+      "$oid": "691e06ab2d53771a31062aaf"
+    },
+    "Nombre": "Haziel",
+    "Cargo": "Secretario"
+  },
+  {
+    "_id": {
+      "$oid": "691e06ab2d53771a31062ab0"
+    },
+    "Nombre": "David",
+    "Cargo": "Secretario"
+  },
+  {
+    "_id": {
+      "$oid": "691e06cdd3efd9b88ddd2ce4"
+    },
+    "Nombre": "Haziel",
+    "Cargo": "Secretario"
+  },
+  {
+    "_id": {
+      "$oid": "691e06cdd3efd9b88ddd2ce5"
+    },
+    "Nombre": "David",
+    "Cargo": "Secretario"
+  },
+  {
+    "_id": {
+      "$oid": "691e071830f06a8fdcb0152d"
+    },
+    "Nombre": "Haziel",
+    "Cargo": "Secretario"
+  },
+  {
+    "_id": {
+      "$oid": "691e071830f06a8fdcb0152e"
+    },
+    "Nombre": "David",
+    "Cargo": "Secretario"
+  },
+  {
+    "_id": {
+      "$oid": "691e09afc8c499474bc24a22"
+    },
+    "Nombre": "Haziel",
+    "Cargo": "Secretario"
+  },
+  {
+    "_id": {
+      "$oid": "691e09afc8c499474bc24a23"
+    },
+    "Nombre": "David",
+    "Cargo": "Secretario"
+  },
+  {
+    "_id": {
+      "$oid": "691e0e7b3e8e36c3ef96231c"
+    },
+    "Nombre": "Haziel",
+    "Cargo": "Secretario"
+  },
+  {
+    "_id": {
+      "$oid": "691e0e7b3e8e36c3ef96231d"
+    },
+    "Nombre": "David",
+    "Cargo": "Secretario"
+  }
+]

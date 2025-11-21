@@ -141,7 +141,7 @@ db.cursos.insertMany([{
     Materia: "Programacion"
 },
 {
-    Nombre: "MondoDB",
+    Nombre: "MongoDB",
     Materia: "Programacion"
 }])
 
